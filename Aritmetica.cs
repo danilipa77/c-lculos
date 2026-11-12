@@ -15,5 +15,9 @@ namespace Calculos
         {
             return a + b;
         }
+        public int Subtrair(int a, int b)
+        {
+            return a - b;
+        }
     }
 }
