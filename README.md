@@ -1,7 +1,7 @@
 # cálculos :1234: 
 
 Aplicação C# para efetuar diversos cálculos.
-![Aplicação Cálculos](aplicacao_calculos.png)
+![Aplicação Cálculos](aplicacao-calculos.png)
 
 Desenvolvida no âmbito da ação de formação **Introdução ao Git e GitHub**
 
@@ -11,11 +11,11 @@ Neste momento esta aplicação implementa as seguintes operações:
 - soma
 - subtração
 - conversão de temperaturas
-    - celsius : arrow_right: fahrneit
+    - celsius :arrow_right: fahrneit
     - fahrneit :arrow_right: celsius
 - conversão de distâncias
-    - metros:arrow_right: milhas
-    - milhas:arrow_right: metro
+    - metros :arrow_right: milhas
+    - milhas :arrow_right: metro
 
 
 ## Tecnologias utilizadas neste projeto 
@@ -25,6 +25,3 @@ Neste momento esta aplicação implementa as seguintes operações:
 - Git
 - GitHub Desktop
 - Plataforma GitHub
-
-
-## Site oficial
